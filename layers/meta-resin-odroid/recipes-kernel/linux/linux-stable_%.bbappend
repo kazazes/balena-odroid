@@ -20,7 +20,6 @@ SRC_URI += " \
     file://don-t-default-activate-regdb.patch \
     file://0001-odroid-xu4-Enable-I2C-1.patch \
     file://0001-include-linux-compiler-gcc6.h-Add-duplicate-of-gcc-5.patch \
-    file://mali_build.patch \
     file://0002-Revert-fix-d_walk-non-delayed-__d_free-race.patch \
     file://0003-Revert-d_walk-might-skip-too-much.patch \
     file://0004-Revert-d_walk-might-skip-too-much.patch \
